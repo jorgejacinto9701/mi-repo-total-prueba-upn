@@ -1,2 +1,3 @@
-public class Empleado_Jacinto{
+public class Empleado_Samuelito
+{
 }
