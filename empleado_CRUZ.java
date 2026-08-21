@@ -1,0 +1,2 @@
+public class empleado CRUZ{
+}
