@@ -1,0 +1,145 @@
+# 💻 Proyecto Java
+
+## 📚 Descripción
+
+Este repositorio contiene el desarrollo de un **proyecto académico realizado en Java** por un grupo de estudiantes.
+
+El proyecto tiene como finalidad aplicar los conocimientos adquiridos durante el curso, poniendo en práctica conceptos de **programación orientada a objetos, estructuras de datos, manejo de clases, métodos, excepciones y buenas prácticas de desarrollo de software**.
+
+## 🛠️ Tecnologías utilizadas
+
+* ☕ **Java**
+* 📦 **Maven** *(si aplica)*
+* 🗄️ **MySQL** *(si aplica)*
+* 🌱 **Git**
+* 🐙 **GitHub**
+* 💻 IDE: IntelliJ IDEA / Eclipse / NetBeans / VS Code
+
+## 📂 Estructura del proyecto
+
+```text
+proyecto-java/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   └── resources/
+│   └── test/
+├── pom.xml
+├── README.md
+└── .gitignore
+```
+
+## 🚀 Instalación y ejecución
+
+### 1. Clonar el repositorio
+
+```bash
+git clone <URL_DEL_REPOSITORIO>
+```
+
+### 2. Ingresar al proyecto
+
+```bash
+cd proyecto-java
+```
+
+### 3. Compilar el proyecto
+
+Si se utiliza Maven:
+
+```bash
+mvn clean install
+```
+
+### 4. Ejecutar
+
+Ejecutar la clase principal del proyecto desde el IDE o mediante Maven, según la configuración del proyecto.
+
+## 👥 Integrantes del proyecto
+
+| N.º | Integrante                              | GitHub                                                                     |
+| --: | --------------------------------------- | -------------------------------------------------------------------------- |
+|   1 | **Cristian Aurelio Reinoso Zegarra**    | [@cristianaureliorz](https://github.com/cristianaureliorz)                 |
+|   2 | **Rodrigo Alessandro Landa Grosso**     | [@rodrigoalessandrg-commits](https://github.com/rodrigoalessandrg-commits) |
+|   3 | **Alejandro Miguel Huilcaya Dominguez** | [@alejandrohdominguez](https://github.com/alejandrohdominguez)             |
+|   4 | **Samuel Joao Milla Roldan**            | [@samuelit0-21](https://github.com/samuelit0-21)                           |
+|   5 | **Dalessandro Eduardo Nina Castro**     | [@LololoKio](https://github.com/LololoKio)                                 |
+|   6 | **Elias Emanuel Lazaro Solano**         | [@EliasLazaro](https://github.com/EliasLazaro)                             |
+|   7 | **Graciela Lizet Ruiz Ramos**           | [@GracielaLR](https://github.com/GracielaLR)                               |
+|   8 | **Aaron Keneth Gonzales Cortez**        | [@aarneth](https://github.com/aarneth)                                     |
+|   9 | **Kevin Hernan Astete Llancare**        | [@kevinllancare123-alt](https://github.com/kevinllancare123-alt)           |
+|  10 | **Jhanmer Andrey Meza Cacha**           | [@MezaJhanmer1](https://github.com/MezaJhanmer1)                           |
+|  11 | **Andy­er Manuel Barranzuela Crisanto** | [@ANDYER1996](https://github.com/ANDYER1996)                               |
+|  12 | **Jose Maria Sanchez Santiago**         | [@josemsan85](https://github.com/josemsan85)                               |
+|  13 | **Andy Cristhofer Acosta Guillen**      | [@andyacosta15](https://github.com/andyacosta15)                           |
+|  14 | **Cesar Farid Cruz Cruces**             | [@faridcr](https://github.com/faridcr)                                     |
+
+## 🌳 Flujo de trabajo con Git
+
+Para contribuir al proyecto:
+
+```bash
+git pull origin main
+```
+
+Crear una nueva rama:
+
+```bash
+git checkout -b feature/nueva-funcionalidad
+```
+
+Realizar los cambios y agregarlos:
+
+```bash
+git add .
+```
+
+Crear un commit:
+
+```bash
+git commit -m "feat: agregar nueva funcionalidad"
+```
+
+Subir la rama:
+
+```bash
+git push origin feature/nueva-funcionalidad
+```
+
+Finalmente, crear un **Pull Request** para revisar e integrar los cambios.
+
+## 📌 Convención de commits
+
+Se recomienda utilizar mensajes de commit claros:
+
+```text
+feat: nueva funcionalidad
+fix: corrección de error
+docs: actualización de documentación
+refactor: mejora del código
+test: agregar pruebas
+```
+
+## 🎯 Objetivo académico
+
+El proyecto busca fortalecer las habilidades de los integrantes en:
+
+* Programación Orientada a Objetos.
+* Desarrollo de aplicaciones Java.
+* Trabajo colaborativo con Git y GitHub.
+* Organización y estructura de proyectos.
+* Control de versiones.
+* Resolución de problemas mediante programación.
+* Aplicación de buenas prácticas de desarrollo.
+
+## 📄 Licencia
+
+Proyecto desarrollado con **fines académicos** por estudiantes.
+
+---
+
+### 👨‍💻 Equipo de desarrollo
+
+**14 estudiantes · Proyecto Java · GitHub**
+
+> *"El trabajo en equipo convierte buenas ideas en grandes proyectos."* 🚀
